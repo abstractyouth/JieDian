@@ -1,1 +1,4 @@
 http=a1.ap.fastqvpn.com:29980, username=441399484358856704, password=66732922-943b-4d64-a390-ac62c343a4d5, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+
+vless://15e7a83e-3e98-40a1-9d04-9d55a1c66ce0@qwer.dooojxxfwafrfes.cf:443?flow=xtls-rprx-direct&security=xtls&sni=qwer.dooojxxfwafrfes.cf#%E9%A6%99%E6%B8%AF
+
